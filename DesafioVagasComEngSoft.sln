@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioVagasComEngSoft", "DesafioVagasComEngSoft\DesafioVagasComEngSoft.csproj", "{01680E83-9FC6-45DB-A20B-6D67DF4F8812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioVagasComTestes", "DesafioVagasComTestes\DesafioVagasComTestes.csproj", "{1CF0712B-E14D-4D0B-BE97-1F1B8480E609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01680E83-9FC6-45DB-A20B-6D67DF4F8812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01680E83-9FC6-45DB-A20B-6D67DF4F8812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01680E83-9FC6-45DB-A20B-6D67DF4F8812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01680E83-9FC6-45DB-A20B-6D67DF4F8812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF0712B-E14D-4D0B-BE97-1F1B8480E609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF0712B-E14D-4D0B-BE97-1F1B8480E609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF0712B-E14D-4D0B-BE97-1F1B8480E609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF0712B-E14D-4D0B-BE97-1F1B8480E609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
